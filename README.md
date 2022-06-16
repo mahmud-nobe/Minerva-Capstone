@@ -9,4 +9,6 @@ Keywords: _Astrophysics, Machine learning (ML), Open Star Cluster (OSC), Semi-su
 
 Capstone Presentation Slides: [Capstone Sampler](https://github.com/mahmud-nobe/Minerva-Capstone/blob/main/Mahmud_Capstone_Sampler.pdf)
 
-Presentation Video on Capstone: [Casptone Presentation]([url](https://drive.google.com/file/d/1-WkxLvJGebcdVUi6d6Tnj9-uA37-w9yQ/view?usp=sharing))
+Presentation Video on Capstone: [Casptone Presentation](https://drive.google.com/file/d/1-WkxLvJGebcdVUi6d6Tnj9-uA37-w9yQ/view?usp=sharing)
+
+Summary of Capstone Hypothesis: [Capstone Prospectus](https://github.com/mahmud-nobe/Minerva-Capstone/blob/main/Mahmudunnobe%2C%20M.%2C%20(2022)%20Capstone%20Prospectus.pdf)

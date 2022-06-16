@@ -13,4 +13,4 @@ Presentation Video on Capstone: [Casptone Presentation](https://drive.google.com
 
 Summary of Capstone Hypothesis: [Capstone Prospectus](https://github.com/mahmud-nobe/Minerva-Capstone/blob/main/Mahmudunnobe%2C%20M.%2C%20(2022)%20Capstone%20Prospectus.pdf)
 
-Full Capstone Project: [Capstone Project](https://github.com/mahmud-nobe/Minerva-Capstone/blob/main/Capstone_Project.pdf)
+Full Capstone Project: [Capstone Project](https://drive.google.com/file/d/1slP4GSwAZwcfbpqznCPNOLtmppdXpt-s/view?usp=sharing)
